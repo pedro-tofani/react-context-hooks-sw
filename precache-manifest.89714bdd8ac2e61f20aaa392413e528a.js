@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c087155020bb5bd8fdb82c1588d85b89",
+    "revision": "8255b7b3f3c8c6324df305892753daae",
     "url": "/react-context-hooks-sw/index.html"
   },
   {
-    "revision": "d621e18f3fb817e327e1",
-    "url": "/react-context-hooks-sw/static/css/main.59060ea5.chunk.css"
+    "revision": "967aea5c43386cdccf49",
+    "url": "/react-context-hooks-sw/static/css/main.13067c22.chunk.css"
   },
   {
     "revision": "598552022b3effa514ba",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-context-hooks-sw/static/js/2.a3d3d72f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d621e18f3fb817e327e1",
+    "revision": "967aea5c43386cdccf49",
     "url": "/react-context-hooks-sw/static/js/main.82c99a59.chunk.js"
   },
   {
