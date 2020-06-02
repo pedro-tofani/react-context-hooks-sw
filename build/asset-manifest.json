@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-context-hooks-sw/static/css/main.13067c22.chunk.css",
+    "main.js": "/react-context-hooks-sw/static/js/main.82c99a59.chunk.js",
+    "main.js.map": "/react-context-hooks-sw/static/js/main.82c99a59.chunk.js.map",
+    "runtime-main.js": "/react-context-hooks-sw/static/js/runtime-main.bd808534.js",
+    "runtime-main.js.map": "/react-context-hooks-sw/static/js/runtime-main.bd808534.js.map",
+    "static/js/2.a3d3d72f.chunk.js": "/react-context-hooks-sw/static/js/2.a3d3d72f.chunk.js",
+    "static/js/2.a3d3d72f.chunk.js.map": "/react-context-hooks-sw/static/js/2.a3d3d72f.chunk.js.map",
+    "index.html": "/react-context-hooks-sw/index.html",
+    "precache-manifest.89714bdd8ac2e61f20aaa392413e528a.js": "/react-context-hooks-sw/precache-manifest.89714bdd8ac2e61f20aaa392413e528a.js",
+    "service-worker.js": "/react-context-hooks-sw/service-worker.js",
+    "static/css/main.13067c22.chunk.css.map": "/react-context-hooks-sw/static/css/main.13067c22.chunk.css.map",
+    "static/js/2.a3d3d72f.chunk.js.LICENSE.txt": "/react-context-hooks-sw/static/js/2.a3d3d72f.chunk.js.LICENSE.txt",
+    "static/media/SWAPI.png": "/react-context-hooks-sw/static/media/SWAPI.17105726.png",
+    "static/media/App.css": "/react-context-hooks-sw/static/media/bg.29256e49.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd808534.js",
+    "static/js/2.a3d3d72f.chunk.js",
+    "static/css/main.13067c22.chunk.css",
+    "static/js/main.82c99a59.chunk.js"
+  ]
+}
